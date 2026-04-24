@@ -113,17 +113,7 @@ Les tailles de police devront s’adapter à la taille définie par l’utilisat
 
 Le blanc (#FFFFFF) pourra également être utilisé.
 
-## Maquette Zoning
+## Maquette wireframe and prototype
 
-  1. Desktop ![desktop](./assets/images/zoningDesktop.png)
-  2. Mobile ![mobile](./assets/images/mobilezoning.png)
+[Figma-maquette](https://www.figma.com/design/H1IdnujVVquJEjwXNf8TZa/Probeats-devoir3?node-id=5-2428&t=n2rjX72DxppGxW7D-0)
 
-## Maquette Wireframe
-
-  1. Desktop ![desktop]()
-  2. Mobile ![mobile]()
-
-## Maquette Prototype
-
-  1. Desktop ![desktop]()
-  2. Mobile ![mobile]()
