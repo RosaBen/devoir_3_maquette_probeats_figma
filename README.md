@@ -116,4 +116,6 @@ Le blanc (#FFFFFF) pourra également être utilisé.
 ## Maquette wireframe and prototype
 
 [Figma-maquette](https://www.figma.com/design/H1IdnujVVquJEjwXNf8TZa/Probeats-devoir3?node-id=5-2428&t=n2rjX72DxppGxW7D-0)
+[Figma-desktop- prototype](https://www.figma.com/proto/H1IdnujVVquJEjwXNf8TZa/Probeats-devoir3?node-id=1-2&t=n2rjX72DxppGxW7D-1)
+[Figma-mobile-prototype](https://www.figma.com/proto/H1IdnujVVquJEjwXNf8TZa/Probeats-devoir3?node-id=32-3403&t=n2rjX72DxppGxW7D-1)
 
